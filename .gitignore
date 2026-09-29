@@ -1,0 +1,10 @@
+.env
+__pycache__/
+episodes/*/_work/
+episodes/*/output/
+episodes/*/img/
+episodes/*/audio/tts_*
+episodes/*/prompts.txt
+episodes/_demo/
+fonts/*.ttf
+fonts/**/*.ttf
